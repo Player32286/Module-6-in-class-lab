@@ -8,3 +8,4 @@ Date: 11-14-2023
 - Timothy Subroto
 - Eric Nguyen
 - Bren Giles
+- Meg Prescott
